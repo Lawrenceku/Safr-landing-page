@@ -1,4 +1,4 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import { avatar, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
 
 export const navLinks = [
   {
@@ -14,8 +14,8 @@ export const navLinks = [
     title: "Product",
   },
   {
-    id: "clients",
-    title: "Clients",
+    id: "download",
+    title: "Download",
   },
 ];
 
@@ -47,44 +47,44 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
-    img: people01,
+      "Safr has revolutionized the way we handle security. The peace of mind we have knowing our data is protected is invaluable. Highly recommend to anyone looking for top-notch security solutions.",
+    name: "Noah Fola",
+    title: "User",
+    img: avatar,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
-    img: people02,
+      "We've been using Safr, and the level of security and ease of use is unmatched. The proactive threat monitoring has saved us from potential breaches multiple times.",
+    name: "Adetola Damilola",
+    title: "User",
+    img: avatar,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
-    img: people03,
+      "As a freelancer, my clients' data security is paramount. Safr provides the robust protection I need to ensure all my projects remain secure. It's a game-changer for anyone working remotely.",
+    name: "Oyesiji Jeremiah",
+    title: "Cybersecurity Expert",
+    img: avatar,
   },
 ];
 
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
-    value: "3800+",
+    title: "Users Protected",
+    value: "30+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
+    title: "Companies Trust Us",
+    value: "2+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "Threats Blocked",
+    value: "10K+",
   },
 ];
 
