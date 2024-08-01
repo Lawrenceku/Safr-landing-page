@@ -138,3 +138,19 @@
   background: rgba(255, 255, 255, 0.6);
   filter: blur(750px);
 }
+
+@keyframes float {
+  0% {
+      transform: translateY(0);
+  }
+  50% {
+      transform: translateY(-10px);
+  }
+  100% {
+      transform: translateY(0);
+  }
+}
+
+#robot {
+  animation: float 3s ease-in-out infinite;
+}
