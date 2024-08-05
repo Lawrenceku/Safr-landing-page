@@ -23,25 +23,40 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "TLDR Summary",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Quickly understand the gist of any webpage with our concise summaries.",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Phishing Detection & Alert",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Stay protected with real-time alerts against phishing attempts.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Ad Blocker",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Enjoy a cleaner browsing experience by blocking intrusive ads.",
+  },
+  {
+    id: "feature-4",
+    icon: avatar,
+    title: "Privacy Dashboard",
+    content:
+      "Take control of your privacy with our comprehensive privacy dashboard.",
+  },
+  {
+    id: "feature-5",
+    icon: avatar,
+    title: "More Features Coming Soon",
+    content:
+      "Stay tuned for exciting new features that will enhance your online safety and experience.",
   },
 ];
+
 
 export const feedback = [
   {
