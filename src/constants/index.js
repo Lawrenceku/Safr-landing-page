@@ -89,17 +89,17 @@ export const stats = [
   {
     id: "stats-1",
     title: "Users Protected",
-    value: "30+",
+    value: "3+",
   },
   {
     id: "stats-2",
     title: "Companies Trust Us",
-    value: "2+",
+    value: "0+",
   },
   {
     id: "stats-3",
     title: "Threats Blocked",
-    value: "10K+",
+    value: "1K+",
   },
 ];
 
